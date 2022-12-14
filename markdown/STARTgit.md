@@ -27,6 +27,19 @@
 ```
 #### 프로젝트 생성부터 push까지
 ```sh
+#프로젝트 폴더 생성 
+% mkdir new_project
+#프로젝트 폴더로 이동
+% cd new_project
+# README파일 & .gitignore 생성 
+% touch README.md .gitignore
+# gitignore.io에 접속하여 필요한 내용 복-붙 
+# 폴더를 리포로 초기화 
+% git init 
+# README & .gitignore 파일 add(tracking)
+% git add .
+# commit 
+% 
 ```
 
     - touch , git add, commit -m, rm, git restore
