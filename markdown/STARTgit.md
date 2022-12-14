@@ -82,11 +82,13 @@
 ```
     - touch , git add, commit -m, rm, git restore
 - 무슨 일이 일어난 걸까?
+  
 |헤메코 | 촬영 | 사진첩|
 |-|-|-|
 |작업공간|스테이지|커밋툴|
 ||ADD : stage에 올림|Commit:커밋 사진찍음|
 |파일명옆 U:Untracked|파일명옆 A:Added|파일명 옆 M:Modified|
+
 - commit 에 메세지 옵션 '변경사항주석 제목'
 - add . 현재 디렉토리에 있는 모든 파일 한번에 스테이징
 - commit은 스테이지를 찍는 것이기 때문에 따로 지정해줄 필요가 없다. 
