@@ -53,17 +53,14 @@
 # 명령어 정리 
 1. 리포 초기화 시점에 1회 입력 
 % git init
-
 2. 작업 후 스테이징 
 # 특정 파일만 add할 때
 % git add <filename>
 # 현재 폴더 전체를 add 할 때
 % git add .
-
 3. 커밋 진행 
 # 메시지는 짧고 정확하게 
 % git commit -m 'MESSAGE'
-
 4. 모니터링 명령어
 # 현재 Working Dir과 Stage 상황 확인 (주기적으로 확인하자!)
 % git status
@@ -71,10 +68,18 @@
 % git log
 # commit 로그 짧게 
 % git log --oneline
-
 5.github에 원격 저장소 생성하기 (github site에서 'NEW Repository')
+6. 원격 저장소 (remote repo) 추가하기 
+% git remote add origin <URL>
+7. 원격 저장소 확인하기 
+% git remote -v 
+8. 원격 저장소에 지금까지의 commit들 PUSH하기 
+% git push origin master
+9. 새로운 컴퓨터에서 기존 원격 저장소 복제하기 
+% git clone <URL>
+10. 원격 저장소의 내용 받아오기 
+% git pull origin master
 ```
-  
     - touch , git add, commit -m, rm, git restore
 - 무슨 일이 일어난 걸까?
 |헤메코 | 촬영 | 사진첩|
