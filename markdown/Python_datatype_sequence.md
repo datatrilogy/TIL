@@ -1,4 +1,4 @@
-# 221215 부트캠프 14일차 
+# 221215 Day 14
 ```sh
 import random
 numbers = range(1,25)

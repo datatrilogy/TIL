@@ -1,4 +1,4 @@
-# 수업노트 _부트캠프 12일차 
+# 수업노트 _Day 12
 아픈 지구 상태 확인 : nullschool
 ## 수업내용
 ### Operations Systems : 운영체제 
