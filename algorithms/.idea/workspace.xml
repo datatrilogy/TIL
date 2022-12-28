@@ -5,16 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81e575eb-cb29-4141-bb0e-203101d1d1a4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/algorithms.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swea/4828_minmax/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swea/4828_minmax/sol.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../markdown/Notes_day21.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../markdown/Notes_day19.md" beforeDir="false" afterPath="$PROJECT_DIR$/../markdown/Notes_day19.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../markdown/Notes_day20.md" beforeDir="false" afterPath="$PROJECT_DIR$/../markdown/Notes_day20.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../markdown/Notes_day21.md" beforeDir="false" afterPath="$PROJECT_DIR$/../markdown/Notes_day21.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,6 +87,11 @@
           <url>file://$PROJECT_DIR$/swea/4828_minmax/sol1.py</url>
           <line>16</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/swea/4836_색칠하기/sol.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="13" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

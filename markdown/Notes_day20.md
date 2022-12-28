@@ -1,4 +1,4 @@
-# Day 20 _ 221223 금
+# Day 20 _ 221223 Fri
 1 . Notes 
 - CSV comma seperated varialbles
 - CLI / GUI
