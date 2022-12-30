@@ -6,6 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="81e575eb-cb29-4141-bb0e-203101d1d1a4" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swea/1954_달팽이숫자/sol.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swea/1954_달팽이숫자/sol1.py" beforeDir="false" afterPath="$PROJECT_DIR$/swea/1954_달팽이숫자/sol1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swea/5432_쇠막대자르기/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/swea/5432_쇠막대자르기/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swea/5432_쇠막대자르기/sol.py" beforeDir="false" afterPath="$PROJECT_DIR$/swea/5432_쇠막대자르기/sol.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../markdown/Notes_day23.md" beforeDir="false" afterPath="$PROJECT_DIR$/../markdown/Notes_day23.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,14 +101,14 @@
           <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/swea/1954_달팽이숫자/sol.py</url>
-          <line>1</line>
-          <option name="timeStamp" value="26" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/swea/1954_달팽이숫자/sol1.py</url>
           <line>6</line>
           <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/swea/1954_달팽이숫자/solLHH.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="28" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
