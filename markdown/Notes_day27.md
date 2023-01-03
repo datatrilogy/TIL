@@ -1,20 +1,23 @@
 # Day 27_230102 화
 HTML과 CSS
 
-
-
-[CSS레이아웃 게임](https://flexboxfroggy.com/#ko)
+[CSS레이아웃 FLEXBOX 게임](https://flexboxfroggy.com/#ko)
 
 ```sh
-Justify-content
+Main Axis(주축), Cross Axis(교차축)
+Reverse : 축의 방향이 바뀜 
+```
+```sh
+Justify-content: 주축을 기준으로 움직임
 * flex-start: 요소들을 컨테이너의 왼쪽으로 정렬합니다.
 * flex-end: 요소들을 컨테이너의 오른쪽으로 정렬합니다.
 * center: 요소들을 컨테이너의 가운데로 정렬합니다.
 * space-between: 요소들 사이에 동일한 간격을 둡니다.
 * space-around: 요소들 주위에 동일한 간격을 둡니다.
+* space-evenly
 ```
 ```sh
-Align-items
+Align-items : 교차축을 기준으로 정렬
 flex-start: 요소들을 컨테이너의 꼭대기로 정렬합니다.
 flex-end: 요소들을 컨테이너의 바닥으로 정렬합니다.
 center: 요소들을 컨테이너의 세로선 상의 가운데로 정렬합니다.
@@ -26,7 +29,7 @@ Align-self 
 ```sh
 flex-direction
 * row: 요소들을 텍스트의 방향과 동일하게 정렬합니다.
-* row-reverse: 요소들을 텍스트의 반대 방향으로 정렬합니다.
+* row-reverse: 요소들을 텍스트의 반대 방향으로 정렬합니다. 
 * column: 요소들을 위에서 아래로 정렬합니다.
 * column-reverse: 요소들을 아래에서 위로 정렬합니다.
 ```
@@ -48,4 +51,12 @@ Align-content
 * space-between: 여러 줄들 사이에 동일한 간격을 둡니다.
 * space-around: 여러 줄들 주위에 동일한 간격을 둡니다.
 * stretch: 여러 줄들을 컨테이너에 맞도록 늘립니다.
+```
+
+```sh
+CSS Bootstrap
+p m
+x y e s t b
+- 1 2 3 4 5 
+
 ```
