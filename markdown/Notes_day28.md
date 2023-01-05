@@ -54,13 +54,16 @@ pip install django==원하는 버전
 - (Python package index에 등록되어있기때문에Pip install 가능 )
 - Dependency : 프레임 워크 하나를 깔아도 하나만 까는게 아니라, 의존하는 여러가치 툴들을 같이 설치한다. 
 ```sh
-django-admin start project (프로젝트폴더 생성)
+django-admin start project project_name (프로젝트폴더 생성)
 ```
 ```sh
-python manage.py startapp (앱폴더 생성)
+python manage.py startapp app_name (앱폴더 생성)
 ```
 ```sh
 python manage.py runserver (서버 시작)
+```
+```sh
+프로젝트 폴더 안에 앱 폴더 생성 후 settings.py 에서 APPS, DIR설정 해줘야 함
 ```
 
 ```sh

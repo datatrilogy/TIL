@@ -1,6 +1,11 @@
 # Day 27_230102 화
 HTML과 CSS
-
+- hyper reference : href
+- 선택자, rem, em, vw, vh
+- 정의되어있는 시점 맨마지막 
+- text-align center, margin auto
+- mui, semantic ui
+- reset.css
 [CSS레이아웃 FLEXBOX 게임](https://flexboxfroggy.com/#ko)
 
 ```sh
@@ -58,5 +63,5 @@ CSS Bootstrap
 p m
 x y e s t b
 - 1 2 3 4 5 
-
+sm md lg xl
 ```
