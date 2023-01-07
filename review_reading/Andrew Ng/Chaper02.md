@@ -12,7 +12,7 @@
   - convolutional networks, sequence models, and transformers.
   
 3. Math relevant to machine learning 
-    - Linnear Algebra (vectos, matrices, and vaious manipulations of them)
+    - Linnear Algebra (vectors, matrices, and vaious manipulations of them)
     - Probability and Statistics ( discrete and continuos probability, standard probability distributions, basic rules such as independence and Bayer's rule, and hypothesis testing)
     - Exploratory data analysis (EDA) 
       - useful in data-centric AI development

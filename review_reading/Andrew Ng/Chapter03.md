@@ -1,8 +1,7 @@
-# Should You Learn Math to Get a Job in AI?
+# Chapter03_Should You Learn Math to Get a Job in AI?
     How to build career in AI, Andrew Ng 
 
-- Understanding the math behind algorithms is helpful.
-- Able to debug
+- Understanding the math behind algorithms is helpful. It enables you to debug easily.
 
 - Deep learning 
 - when training neural network and the optimization algorithm 
