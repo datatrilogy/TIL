@@ -80,6 +80,7 @@ VSCODE, SQLlite 뷰어 설치
 ```
 2_2. 터미널 명령어 실행
 ```sh
+- django-admin startproject board .
 - python manage.py makemigrations board / 가안 만들어주기.
 - primary key 확인
 - python manage.py board migrate 
